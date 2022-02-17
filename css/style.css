@@ -2402,7 +2402,7 @@ header .icon-entry .text b {
 		left: 0;
 		top: 0;
 		width: 100%;
-		background-color: #004fb9;
+		background-color: #fff;
 		background-repeat-x: repeat;
 		background-size: contain;
 		height: 100%;
@@ -2475,7 +2475,7 @@ header .icon-entry .text b {
 		top: 50%;
 		margin: -1px 0 0 -23px;
 		content: "";
-		background: #fff;
+		background: #004fb9;
 	}
 	.navigation-header .close-menu:before {
 		transform: rotate(45deg);
